@@ -1,5 +1,3 @@
-package FinancialForecast;
-
 public class FinancialForecast {
     public static double calculateFutureValueRecursive(double initialAmount, double rate, int years) {
         if (years == 0)
